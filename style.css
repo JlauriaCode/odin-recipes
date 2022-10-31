@@ -1,0 +1,56 @@
+.body {
+    background-color: rgb(30, 25, 37);
+}
+
+.h1 {
+    color: #f0f8ff;
+    font-size: 90px;
+    font-family: serif, sans-serif, Verdana, Geneva, Tahoma;
+    text-align: center;
+}
+
+.h2 {
+    color: #f0f8ff;
+    font-size: 35px;
+    font-family: serif, sans-serif, Verdana, Geneva, Tahoma;
+    font-style: italic;
+}
+
+.img {
+    align-content: center;
+    height: auto;
+    width: 100px;
+}
+
+.index-ul, .link {
+    color: #f0f8ff; 
+    font-size: 30px;
+    font-family: serif, sans-serif, Verdana, Geneva, Tahoma;
+}
+
+.recipe-img {
+    height: auto;
+    width: 300px;
+}
+
+.list {
+    color: #f0f8ff;
+    font-size: 17.5px;
+    font-family: serif, sans-serif, Verdana, Geneva, Tahoma;
+}
+
+.p {
+    color: #f0f8ff;
+    font-size: 20px;
+    font-family: serif, sans-serif, Verdana, Geneva, Tahoma;
+}
+
+.button {
+    color: rgb(30, 25, 37);
+    background-color: #f0f8ff;
+    height: 35px;
+    width: 100px;
+    font-family: serif, sans-serif, Verdana, Geneva, Tahoma;
+    font-size: large;
+    font-weight: bold;
+}
