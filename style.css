@@ -1,5 +1,5 @@
 .body {
-    background-color: rgb(30, 25, 37);
+    background-color: rgb(24, 22, 27);
 }
 
 .h1 {
@@ -46,11 +46,18 @@
 }
 
 .button {
-    color: rgb(30, 25, 37);
     background-color: #f0f8ff;
-    height: 35px;
+    height: auto;
     width: 100px;
-    font-family: serif, sans-serif, Verdana, Geneva, Tahoma;
+    height: 50px;
     font-size: large;
+    font-family: serif;
     font-weight: bold;
+}
+
+div {
+    margin: 20px;
+    padding: .5px;
+    background-color: rgb(31 41 55);
+    border-radius: 0.5rem;
 }
