@@ -1,10 +1,8 @@
 body {
     padding: 5px 10px;
-}
-
-.body {
     background-color: rgb(29, 26, 32);
 }
+
 
 .h1 {
     color: #f0f8ff;
@@ -21,35 +19,41 @@ body {
     font-weight: bold;
 }
 
+/* probably needs a better name - images used in h1 on index.html */
 .img {
     align-content: center;
     height: auto;
     width: 100px;
 }
 
+/* unique list on index.html */
 .index-ul, .link {
     color: #f0f8ff; 
     font-size: 30px;
     font-family: serif, sans-serif, Verdana, Geneva, Tahoma;
 }
 
+/* all images located on recipe pages */
 .recipe-img {
     height: auto;
     width: 300px;
 }
 
+/* <li> within lists*/
 .list {
     color: #f0f8ff;
     font-size: 17.5px;
     font-family: serif, sans-serif, Verdana, Geneva, Tahoma;
 }
 
+/* stand alone text*/
 .p {
     color: #f0f8ff;
     font-size: 20px;
     font-family: serif, sans-serif, Verdana, Geneva, Tahoma;
 }
 
+/* home button */
 .button {
     background-color: #f0f8ff;
     height: auto;
@@ -60,7 +64,9 @@ body {
     font-weight: bold;
 }
 
+/* box surrounding lists */
 div {
+    display: flex;
     margin: 20px 300px 20px 30px;
     padding: 1px 10px;
     background-color: rgb(31 41 55);
